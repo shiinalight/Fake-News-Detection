@@ -1,4 +1,4 @@
-# Fake_News
+# Fake News Detection
 ### Problem Definition
 Develop a machine learning program to identify when a news source may be producing fake news. We aim to use a corpus of labeled real and fake new articles to build a classifier that can make decisions about information based on the content from the corpus.
 unfortunately the full corpus cannot be shared here, but a small example and manual testing are included.
